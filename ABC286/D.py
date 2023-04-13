@@ -19,4 +19,4 @@ for c in coins:
 if result[-1]:
 	print("Yes")
 else:
-  	print("No")
+    print("No")
